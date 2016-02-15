@@ -1,1 +1,9 @@
 C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\bin\Debug\TheBestOfTheBest.exe.config
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\bin\Debug\TheBestOfTheBest.exe
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\bin\Debug\TheBestOfTheBest.pdb
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\obj\Debug\TheBestOfTheBest.csprojResolveAssemblyReference.cache
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\obj\Debug\TheBestOfTheBest.Form1.resources
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\obj\Debug\TheBestOfTheBest.Properties.Resources.resources
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\obj\Debug\TheBestOfTheBest.csproj.GenerateResource.Cache
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\obj\Debug\TheBestOfTheBest.exe
+C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\obj\Debug\TheBestOfTheBest.pdb
