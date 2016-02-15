@@ -19,20 +19,13 @@ namespace TheBestOfTheBest
             Application.Run(new Form1());
 
 
-           Resize();
-
 
 
 
         }
 
 
-        static void Resize()
-        {
-
-            //hello
-
-        }
+    
 
 
 
