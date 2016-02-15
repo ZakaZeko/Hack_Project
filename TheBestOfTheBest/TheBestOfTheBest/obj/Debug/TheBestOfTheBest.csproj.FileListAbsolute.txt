@@ -1,1 +1,2 @@
 C:\Users\zeko\Documents\work\SourceWork\HackManchester\TheBestOfTheBest\TheBestOfTheBest\bin\Debug\TheBestOfTheBest.exe.config
+C:\SourceControl\HackManchester\TheBestOfTheBest\TheBestOfTheBest\bin\Debug\TheBestOfTheBest.exe.config
