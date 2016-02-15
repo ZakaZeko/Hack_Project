@@ -17,6 +17,24 @@ namespace TheBestOfTheBest
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+           Resize();
+
+
+
+
         }
+
+
+        static void Resize()
+        {
+
+            //hello
+
+        }
+
+
+
     }
 }
